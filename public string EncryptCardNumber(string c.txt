@@ -1,0 +1,12 @@
+public string EncryptCardNumber(string cardNumber)  
+{  
+    byte[] encryptedData = ProtectedData.Protect(  
+        Encoding.UTF8.GetBytes(cardNumber),  
+        null,  
+        DataProtectionScope.CurrentUser  
+    );  
+    return Convert.ToBase64String(encryptedData);  
+} 
+
+
+
