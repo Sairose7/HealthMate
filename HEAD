@@ -1,1 +1,10 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 91506f99adc4263e7a00146b145fbabbf676b09a hadi4234557 <mh4051580@gmail.com> 1764526603 +0500	commit (initial): first commit
+91506f99adc4263e7a00146b145fbabbf676b09a 0000000000000000000000000000000000000000 hadi4234557 <mh4051580@gmail.com> 1764526603 +0500	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 91506f99adc4263e7a00146b145fbabbf676b09a hadi4234557 <mh4051580@gmail.com> 1764526603 +0500	Branch: renamed refs/heads/master to refs/heads/main
+91506f99adc4263e7a00146b145fbabbf676b09a 7eca10361c5b51550a3a3fbc5d8b7b12731549c6 hadi4234557 <mh4051580@gmail.com> 1764526870 +0500	commit: Update README with comprehensive setup instructions
+7eca10361c5b51550a3a3fbc5d8b7b12731549c6 f9a2a92e91b7175fde431f82399124e6f7a1d638 hadi4234557 <mh4051580@gmail.com> 1764526966 +0500	commit: Add build instructions for iOS and Android
+f9a2a92e91b7175fde431f82399124e6f7a1d638 42822b7698b16a9d9e64dd9787269bf146a60a01 hadi4234557 <mh4051580@gmail.com> 1764727477 +0500	commit: Final release v2.0.0: Profile nav fix, Goal editing, About section
+42822b7698b16a9d9e64dd9787269bf146a60a01 707e408e4f8c71301d861ff21a00452620333738 hadi4234557 <mh4051580@gmail.com> 1764851819 +0500	commit: Sprint 11, 12 & 12.5: UI/UX Remediation, Green Theme Fixes, and Navigation Improvements
+707e408e4f8c71301d861ff21a00452620333738 c940567f0c8449be3bfe3e3ff5dd4e076f7c908a hadi4234557 <mh4051580@gmail.com> 1765097378 +0500	commit: Fix: Analytics chart dynamic scaling logic to handle distinct goals and values
+c940567f0c8449be3bfe3e3ff5dd4e076f7c908a e619ebc371c7ff74edbb6a9a9245058b8f191f3b hadi4234557 <mh4051580@gmail.com> 1765110741 +0500	commit: Sprint 14: Added Goal Input Validation (Negative check & Max limits)
+e619ebc371c7ff74edbb6a9a9245058b8f191f3b d61a2821d2d2e40e824ebef41482a7dcef6d13ab hadi4234557 <mh4051580@gmail.com> 1765689450 +0500	commit: Sprint 15: Fix Chart Clutter & Add Sensor Simulation
